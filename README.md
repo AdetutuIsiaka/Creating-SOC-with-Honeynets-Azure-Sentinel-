@@ -1,5 +1,5 @@
 # Building a SOC + Honeynet in Azure (Live Traffic)
-![Cloud Honeynet / SOC](https://app.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#HAdetutuIsiaka%2FCreating-SOC-with-Honeynets-Azure-Sentinel-%2Fmain%2FCloud%20Honeynet%20%2BSOC.drawio.html)
+![Cloud Honeynet / SOC](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Untitled%20Diagram.drawio&dark=auto#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FAdetutuIsiaka%2FCreating-SOC-with-Honeynets-Azure-Sentinel-%2Fmain%2FUntitled%2520Diagram.drawio)
 
 #Project Overview
 
